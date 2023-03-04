@@ -1,6 +1,6 @@
 """
 Made by Puppy_3125 on Github
-
+Github link: https://github.com/Puppy3125/Dice-using-Pygame
 """
 
 import pygame, sys, random

@@ -48,6 +48,6 @@ def main():
                 sys.exit()
 
             if event.type == pygame.KEYDOWN:
-                if event.key  == pygame.K_SPACE:
+                if event.key == pygame.K_SPACE:
                     dice()
 main()
